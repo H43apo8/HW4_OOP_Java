@@ -27,4 +27,8 @@ public class Teacher extends User {
         this.academicDegree = academicDegree;
     }
 
+    public int getId() {
+        return 0;
+    }
+
 }
